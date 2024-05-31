@@ -143,17 +143,21 @@ CHƯƠNG IV . THIẾT KẾ ỨNG DỤNG
 		
 
 + rooms(name, password, isLock)
+
 ![image](https://github.com/Nhung2310/ChatRPC/assets/89560779/3170709b-4dc8-46e8-ba82-119036a2e256)
 
 
 + room_member (name_room, username_member)
+
 ![image](https://github.com/Nhung2310/ChatRPC/assets/89560779/3fb8faae-96fd-4da8-b46a-2c65b1204a87)
 
 + activitys (id, name)
+
 ![image](https://github.com/Nhung2310/ChatRPC/assets/89560779/438db2e6-a411-48cf-b7c9-4329bdb531a8)
 
 
 + logs (id, username_member, name_room, activity, time, data)
+
 ![image](https://github.com/Nhung2310/ChatRPC/assets/89560779/e9a8e70b-67d5-4d5b-a3c8-6e4627a35223)
 
 
@@ -171,6 +175,7 @@ Bằng cách điền username vào ô, ứng dụng sẽ kiểm tra xem người
 	Giao diện chat
 
 ![image](https://github.com/Nhung2310/ChatRPC/assets/89560779/826f9ce2-f784-4fee-b80b-16d09d332e2f)
+
 Hình 4.2 Nhập mật khẩu để tham gia nhóm chat
  
 
@@ -182,9 +187,11 @@ Hình 4.2 Nhập mật khẩu để tham gia nhóm chat
 •	Người dùng có thể chat, gửi thông tin trong nhóm và có thể rời nhóm chat
 
 	Giao diện admin
+
 ![image](https://github.com/Nhung2310/ChatRPC/assets/89560779/ab61f81f-9ed3-4cba-acd4-c4f5e33d1a81)
 
 Hình 4.4 Giao diện admin
+
 ![image](https://github.com/Nhung2310/ChatRPC/assets/89560779/2005cd28-3f67-43f7-af4e-1fb95ae25b6d)
 
 
@@ -207,6 +214,7 @@ Hình 4.8 Khóa tài khoản người dùng
 
  
 Hình 4.9 Mở khóa tài khoản người dùng
+
 ![image](https://github.com/Nhung2310/ChatRPC/assets/89560779/fe55f967-9d49-46c9-969c-05472019aeb9)
  
 Hình 4.10 Gửi thông báo đến tài khoản người dùng
